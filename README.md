@@ -1,10 +1,5 @@
 # B404B Computational Finance Project
 
-## Contributors
-- Jannis H.
-- Jan Besler
-- Tim-Moritz B.
-
 ## Introduction
 This repository contains the work for the "B404B Computational Finance" course. Our project focuses on developing and analyzing an automated trading strategy using historical stock data. The submission date for this project was June 26, 2022.
 
