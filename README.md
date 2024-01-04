@@ -29,10 +29,27 @@ Our approach involves several key steps:
 - **Signal Computation and Stock Positioning**: The signals are computed using historical data, which then dictate our stock positioning.
 - **Strategy Implementation**: We apply these signals to historical data to simulate an automated trading strategy.
 
+The first trading signal conists of the *MACD* and an *Ichimoku Cloud*
+
+![Signal 1](/Signal_1.png "MACD and Ichimoku Cloud")
+
+The second trading signal includes the *RSI* and a *flashing indicator*
+
+![Signal 2](/Signal_2.png "RSI and flashing Indicator")
+
+The third trading signal uses a *Trading Breakout* and a *Dynamic Momentum Index*
+
+![Signal 3](/Signal_3.png "Trading Breakout and Dynamic Momentum Index")
+
 ## Results and Analysis
 
 The notebook includes a comprehensive analysis of the trading strategy's performance. This includes statistical analysis and various graphs that visualize the strategy's effectiveness over time.
-![Jensen's Alpha][Jensens_Alpha.png "Jensen's Alpha"]
+
+Some of Analysis Results are depicted in the following graphs.
+
+![Jensen's Alpha](/Jensens_Alpha.png "Jensen's Alpha")
+
+![Sharpe ratio](/Sharpe_ratio.png "Sharpe Ratio")
 
 ## Additional Considerations
 
