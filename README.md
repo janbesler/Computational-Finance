@@ -25,13 +25,14 @@ The project utilizes historical stock data, specifically closing prices and pric
 
 Our approach involves several key steps:
 
-    Defining Trading Signals: We establish criteria for buying or selling stocks based on financial data trends.
-    Signal Computation and Stock Positioning: The signals are computed using historical data, which then dictate our stock positioning.
-    Strategy Implementation: We apply these signals to historical data to simulate an automated trading strategy.
+- **Defining Trading Signals**: We establish criteria for buying or selling stocks based on financial data trends.
+- **Signal Computation and Stock Positioning**: The signals are computed using historical data, which then dictate our stock positioning.
+- **Strategy Implementation**: We apply these signals to historical data to simulate an automated trading strategy.
 
 ## Results and Analysis
 
 The notebook includes a comprehensive analysis of the trading strategy's performance. This includes statistical analysis and various graphs that visualize the strategy's effectiveness over time.
+
 
 ## Additional Considerations
 
