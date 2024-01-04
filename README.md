@@ -32,7 +32,7 @@ Our approach involves several key steps:
 ## Results and Analysis
 
 The notebook includes a comprehensive analysis of the trading strategy's performance. This includes statistical analysis and various graphs that visualize the strategy's effectiveness over time.
-
+![Jensen's Alpha][Jensens_Alpha.png "Jensen's Alpha"]
 
 ## Additional Considerations
 
